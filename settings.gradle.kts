@@ -15,4 +15,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "rp-utils-kotlin"
+rootProject.name = "render-protocol-compose"
